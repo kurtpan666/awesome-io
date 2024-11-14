@@ -11,6 +11,7 @@
 
 ## Papers
 
+- [BDJ+24] [Pseudorandom Obfuscation and Applications](https://eprint.iacr.org/2024/1742)
 - [RVV24] [Indistinguishability Obfuscation from Bilinear Maps and LPN Variants](https://eprint.iacr.org/2024/856)
 - [CCMR24] [Towards general-purpose program obfuscation via local mixing](https://eprint.iacr.org/2024/006)
 
