@@ -20,9 +20,12 @@
 - [Indistinguishability Obfuscation from Well-Founded Assumptions](https://cacm.acm.org/research-highlights/indistinguishability-obfuscation-from-well-founded-assumptions/)
 - [How obfuscation can help Ethereum](https://ethresear.ch/t/how-obfuscation-can-help-ethereum/7380)
 - [Possible futures of the Ethereum protocol, part 6: The Splurge](https://vitalik.eth.limo/general/2024/10/29/futures6.html)
+- [Program obfuscation via local mixing](https://hackmd.io/Vg3LlttcSH-oXZDFSHUDlw)
 
 
 ## Videos
 
 ## Codes
-- https://github.com/SoraSuegami/iOMaker/
+- LPN: https://github.com/SoraSuegami/iOMaker/
+- Local Mixing: https://github.com/gausslabs/obfustopia
+- Evasive LWE WE: https://tinyurl.com/y62cn45m
