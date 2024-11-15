@@ -10,12 +10,13 @@
 </div>
 
 ## Papers
-
+- [On the (Im)possibility of Obfuscating Programs](https://www.boazbarak.org/Papers/obfuscate.pdf)
 - [BDJ+24] [Pseudorandom Obfuscation and Applications](https://eprint.iacr.org/2024/1742)
 - [RVV24] [Indistinguishability Obfuscation from Bilinear Maps and LPN Variants](https://eprint.iacr.org/2024/856)
 - [CCMR24] [Towards general-purpose program obfuscation via local mixing](https://eprint.iacr.org/2024/006)
 
 ## Posts
+- https://en.wikipedia.org/wiki/Indistinguishability_obfuscation
 - [Computer Scientists Achieve ‘Crown Jewel’ of Cryptography](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/)
 - [Indistinguishability Obfuscation from Well-Founded Assumptions](https://cacm.acm.org/research-highlights/indistinguishability-obfuscation-from-well-founded-assumptions/)
 - [How obfuscation can help Ethereum](https://ethresear.ch/t/how-obfuscation-can-help-ethereum/7380)
